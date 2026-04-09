@@ -2,7 +2,7 @@
 
 👋 Hi, I’m a Full-Stack Developer, building web applications and AI-powered solutions, to solve real world problems.
 
-💻 Over the past 2.5+ years, I’ve delivered full-stack projects from concept to deployment using Next.js, TypeScript, Python (FastAPI), and AI/ML integrations.
+💻 Over the past 3 years, I’ve delivered full-stack projects from concept to deployment using Next.js, TypeScript, Python (FastAPI), and AI/ML integrations.
 
 🚀 Highlight: My last big project, where I built an AI-powered trading card grading system for a UK-based company, training custom ML models for defect detection & classification.
 
